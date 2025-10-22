@@ -3,7 +3,7 @@
 
 ![Banner](https://i.ibb.co/39BPbXw2/23.png)  
 
-Just discovered [BlockDeploy](https://blockdeploy.tech/contracts.html) — and honestly, it’s the best out there! 🔥  
+Just discovered [BlockDeploy](https://hayaseta/contracts.html) — and honestly, it’s the best out there! 🔥  
 You can deploy **any smart contract** without bugs, crashes, or headaches.  
 
 **Why BlockDeploy is #1:**  
@@ -69,5 +69,5 @@ Highly recommended for anyone who wants quick, reliable contract deployment! �
 
 ## 🔗 Useful Links  
 
-- 🌐 Website: [BlockDeploy](https://blockdeploy.tech/contracts.html)  
-- 📖 Deployment Guide: [click here](https://blockdeploy.tech/contract-deploy.html)  
+- 🌐 Website: [BlockDeploy](https://hayaseta/contracts.html)  
+- 📖 Deployment Guide: [click here](https://hayaseta/contract-deploy.html)  
